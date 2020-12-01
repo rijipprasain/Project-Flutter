@@ -1,0 +1,17 @@
+prasa@rzpprasain MINGW64 /c/NetCentric
+$ pwd
+/c/NetCentric
+
+prasa@rzpprasain MINGW64 /c/NetCentric
+$ git config --global user.name "Rijip Prasain"
+
+prasa@rzpprasain MINGW64 /c/NetCentric
+$ git config --global user.email "prasainrijip@gmail.com"
+
+prasa@rzpprasain MINGW64 /c/NetCentric
+$ git config --global --list
+user.name=Rijip Prasain
+user.email=prasainrijip@gmail.com
+
+prasa@rzpprasain MINGW64 /c/NetCentric
+$
